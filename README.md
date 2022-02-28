@@ -1,0 +1,2 @@
+# Music-Wrapped-
+This web application has implications similar to prominent music applications of the time, such as Spotify, Amazon Music, and Apple Music in terms of its database. The application will hold data such as songs, artists, albums, bands, and users to answer a spectrum of questions that users ask, such as top songs, artists, and albums in disparate genres, when starting to use a certain music app. Each result then can be further sorted by genre, date, etc. according to the requirement of the user. 
